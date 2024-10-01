@@ -1,0 +1,57 @@
+
+.math-container {
+    text-align: left; /* Ensure the text alignment is left */
+}
+.math-container .mjx-chtml {
+    margin-left: 0 !important; /* Override default centering */
+}
+
+
+#procrastination-container {
+    position: relative;
+}
+#myCanvas {
+    border: 1px solid black;
+}
+.procrastination-form-container {
+    position: absolute;
+    background-color: lightblue; /* translucent background */
+    padding: 1px;
+    border-radius: 5px;
+}
+#procrastination-container_K {
+    top: 40px;
+    left: 50px;
+}
+#procrastination-container_P {
+    top: 90px; /* Adjust as needed */
+    left: 40px;
+}
+#procrastination-container_M {
+    top: 140px; /* Adjust as needed */
+    left: 176px;
+}
+#procrastination-container_V {
+    top: 60px; /* Adjust as needed */
+    left: 130px;
+}
+#procrastination-container_E {
+    top: 60px; /* Adjust as needed */
+    left: 220px;
+}
+#procrastination-container_L {
+    top: 60px; /* Adjust as needed */
+    left: 290px;
+}
+#procrastination-container_E_RESULT {
+    top: 125px; /* Adjust as needed */
+    left: 300px;
+}
+#procrastination-container_H {
+    top: 140px; /* Adjust as needed */
+    left: 92px;
+}
+#procrastination-submit-container3 {
+    top: 200px; /* Adjust as needed */
+    left: 10px;
+}
