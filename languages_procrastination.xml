@@ -1,0 +1,88 @@
+﻿<?xml version="1.0"  encoding="UTF-8" ?>
+<root>
+
+	<INS1>
+		<en>K = Extent of the disaster if the mission is not carried out at all (1-10 for a "global emergency".</en>
+		<fi>K = Katastrofin laajuus, jos tehtävää ei tehdä ollenkaan (1-10, kun on maailmanlaajuinen hätätilä".</fi>
+		<fr>K = degré de catastrophe si la mission n'est pas exécutée du tout (1-10 pour une urgence mondiale).</fr>
+		<ru>K = Масштабы бедствия, если задание не будет выполнено вообще (1-10 для глобальной чрезвычайной ситуации).</ru>
+	</INS1>
+	<INS2>
+		<en>P = How many days can you postpone the task?</en>
+		<fi>P = Kuinka monta päivää voit lykätä asian tekemistä?</fi>
+		<fr>P = Combien de jours pouvez-vous postposer la tâche ?</fr>
+		<ru>P = На сколько дней вы можете отложить выполнение задания?</ru>
+	</INS2>
+	<INS3>
+		<en>M = How likely is it that someone else will eventually get the job done? (1-10, where 1 = 0% and 10 = 100%.)</en>
+		<fi>M = Kuinka todennäköisesti joku muu lopulta hoitaa homman? (1-10, kun 1 = 0% ja 10= 100%.)</fi>
+		<fr>M = Quelle est la probabilité que quelqu'un d'autre finisse par accomplir la tâche ? (1-10, où 1 = 0 % et 10 = 100 %).</fr>
+		<ru>M = Насколько вероятно, что кто-то другой в конце концов выполнит задание? (1-10, где 1 = 0 %, а 10 = 100 %).</ru>
+	</INS3>
+	<INS4>
+		<en>V= How angry will this "someone else" be with you after the job is done? (1-10)</en>
+		<fi>V= Kuinka vihainen tämä "joku muu" tulee olemaan sinulle tehtyään työn? (1-10, kun 10 on "Pääsen vihdoinkin Cantores Minoresiin sopraniinoksi."</fi>
+		<fr>V= Dans quelle mesure ce « quelqu'un d'autre » sera-t-il en colère contre vous une fois le travail terminé ?  (1-10).</fr>
+		<ru>V = Насколько этот «кто-то другой» будет зол на вас после выполнения работы?  (1-10).</ru>
+	</INS4>
+	<INS5>
+		<en>E= How unpleasant is it to do the thing? (1-10, with 10 being "emptying an outdoor toilet in the sweltering heat."</en>
+		<fi>E= Kuinka epämiellyttäviä asian tekeminen on? (1—10, kun 10 on "huussin tyhjentäminen helteellä".)"</fi>
+		<fr>E= Dans quelle mesure est-il désagréable de faire ce travail ? (1-10, 10 étant « vider un urinoir en pleine chaleur »)</fr>
+		<ru>E= Насколько неприятно выполнять эту работу? (1-10, где 10 - «опорожнять писсуар в жару»).</ru>
+	</INS5>
+	<INS6>
+		<en>L = Is it easier or harder to do the task by slacking off? If it gets easier, put a negative number between one and five in the equation. If it becomes more difficult, put a positive number between one and five in the equation.</en>
+		<fi>L = Helpoottuuko vai vaikeutuuko tehtävän tekeminen lusmuilemalla? Jos se helpottuu laita yhtälöön negatiivinen luku yhden ja viiden väliltä. Jos taas tekeminen vaikeutuu, laita positiivinen luku yhden ja viiden väliltä</fi>
+		<fr>L = Est-il plus facile ou plus difficile d'accomplir la tâche en se relâchant ? Si c'est plus facile, mettez un nombre négatif entre 1 et 5 dans l'équation. Si cela devient plus difficile, mettez un nombre positif entre un et cinq dans l'équation.</fr>
+		<ru>L = Легче или труднее выполнять задание, если от вас пахнет свиньей? Если становится легче, подставьте в уравнение отрицательное число от 1 до 5. Если становится труднее, подставьте в уравнение положительное число от одного до пяти.</ru>
+	</INS6>
+	<INS7>
+		<en>H = Your history of procrastination from 0 to 10, where 10 is your "innate lazy-bum"</en>
+		<fi>H = Laiskotteluhistoriasi 0-10,kun 10 on "synnynnäinen lorvikatarri"</fi>
+		<fr>H = Vos antécédents de relâchement, de 0 à 10, 10 étant votre « paresse innée ».</fr>
+		<ru>H = ваша история безделья от 0 до 10, 10 - это ваша «врожденная лень»</ru>
+	</INS7>
+	<INS8>
+		<en>If T is bigger 1 it is best to start relatively immediately.</en>
+		<fi>Jos T on isompi kuin 1 on parasta aloittaa suhteellisen heti.</fi>
+		<fr>Si T plus grand que 1, il est préférable de commencer relativement immédiatement.</fr>
+		<ru>Если T plus 1, лучше начать относительно сразу.</ru>
+	</INS8>
+
+
+	<INS9>
+		<en>Would I do something today that I could do tomorrow?</en>
+		<fi>Tekisinkö tänään jotain, minkä voisin tehdä huomenna?</fi>
+		<fr>Ferais-je aujourd'hui quelque chose que je pourrais faire demain ?</fr>
+		<ru>Сделаю ли я сегодня то, что мог бы сделать завтра?</ru>
+	</INS9>
+
+	<INS10>
+		<en>A responsible person has n pieces of things to do instead of lazing around. One could rake leaves, take newspapers to the paper bin, call mother or go to the store to get dog food. But no - there you are, couch potato. That's right. If one lets the leaves  on the grass for another week, they'll rot. I suppose the same thing will happen to newspapers over time. Mum will call anyway. The dog's too fat anyway. The formula measures how hard it would take to do it now and how hard it would take to do it tomorrow, next week or next year. It also measures the psychological effects of both doing and leaving it.</en>
+		<fi>Vastuuntuntoisella ihmisellä on n kappaletta asioita,jotka pitäisi tehdä sen sijaan, että päästää sisäisen insinöörinä veivaamaan kirjan yhtälöitä. Voisi haravoida, viedä sanomalehdet paperinkeräykseen, soittaa äidille tai käydä kaupassa hakemassa koiranruokaa. Mutta ei — siinä sitä taas maataan kuin härski silli. Hyvä niin. Jos annat lehtien olla aloillaan vielä viikon, ne maatuvat. Sanomalehdillekin käynee ajan myötä samoin. Äiti soittaa kuitenkin. Koira on joka tapauksessa liian lihava. Kaava mittaa, kuinka raskasta asia olisi  hoitaa nyt ja kuinka raskasta olisi hoitaa se huomenna, ensi viikolla tai ensi vuonna. Niin ikään se mittaa sekä tekemisen että tekemättä jättämisen psykologisia vaikutuksia.</fi>
+		<fr>Une personne responsable a plusieurs choses à faire au lieu de paresser. On pourrait ratisser les feuilles, jeter les journaux dans la poubelle à papier, appeler sa mère ou aller au magasin pour acheter de la nourriture pour chien. Mais non, te voilà, avachi sur le canapé. Voilà qui est juste. Si on laisse les feuilles sur le gazon une semaine de plus, elles vont pourrir. Je suppose qu'il en sera de même pour les journaux avec le temps. Maman appellera de toute façon. Le chien est déjà trop gros de toute façon. La formule mesure combien il serait difficile de le faire maintenant et combien cela serait difficile demain, la semaine prochaine ou l'année prochaine. Elle évalue également les effets psychologiques de faire ou de ne pas faire ces tâches.</fr>
+		<ru>У ответственного человека есть n-ное количество дел, которые нужно сделать, вместо того чтобы позволять своему внутреннему инженеру выводить уравнения в книге. Вы могли бы сгрести листья, отнести газеты в урну, позвонить маме или сходить в магазин за собачьим кормом. Но нет - вы опять лежите. Все верно. Если вы оставите листья на траве еще на неделю, они сгниют. Полагаю, то же самое со временем произойдет и с газетами. Мама все равно позвонит. Собака все равно слишком толстая. Формула измеряет, насколько сложно сделать это сейчас и насколько сложно сделать это завтра, на следующей неделе или в следующем году. Она также измеряет психологические последствия как выполнения, так и оставления этого дела.</ru>
+	</INS10>
+
+	<INS11>
+		<en>It is urgent!</en>
+		<fi>Korkea aika aloittaa!</fi>
+		<fr>il est grand temps de commencer!</fr>
+		<ru>время начинать!</ru>
+	</INS11>
+
+	<INS12>
+		<en>don't worry</en>
+		<fi>älä hätäile</fi>
+		<fr>pas de panique</fr>
+		<ru>не паникуйте</ru>
+	</INS12>
+
+
+</root>
+
+
+	
+	
+		
