@@ -25,3 +25,6 @@ H = Your history of procrastination from 0 to 10, where 10 is your "innate lazy-
 
 If T is bigger 1 it is best to start relatively immediately.
 
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ReinhardLenz&repo=Procrastination&color=green)
